@@ -1,0 +1,87 @@
+#EXTM3U
+
+# ----------- 1.- Ecuador ----------- 
+#EXTINF:-1 group-title="ASD Español",1. Nuevo Tiempo [SD]
+rtsp://stream.novotempo.com:1935/tv/tvnuevotiempo.stream
+
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="General",2. Ecuavisa
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+
+#EXTINF:-1 xui-id="487859" tvg-id="univision.us" tvg-name="3. UNIVISION (EAST)" tvg-logo="http://watch-myjokertv.xyz:8080/images/qH_15LhINIo4jIfP5ty4Hly8J3ytqtX2D2qO8OA69VOz4mgw-WTB2I1mpiWosZ-AbVXMdCulc-Pv_WRD-He2MJRQDwaRKgq9SvkJPnB372k.png" group-title="LATINO",3. UNIVISION (EAST)
+http://watch-myjokertv.xyz:8080/play/bGcvHC9bSFjFg67vwqDnvS3M7EjdWu1Uy2ozSU6n9rRAa5FIOpI4D31YOc1APVmb/ts
+
+#EXTINF:-1 tvg-id="RTS.ec" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="",4. RTS
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+#EXTINF:-1,4.1 RTS TV HD
+http://qq1231.us:80/eduardojloor/6475737561/100844.ts
+
+#No funciona en Canada
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="",5. Teleamazonas
+https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
+#EXTINF:-1,5.1 ECU: TELEAMAZONAS HD
+http://qq1231.us:80/eduardojloor/6475737561/100847.ts
+
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="General",6. Oromar TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+# canal 7 Telemundo
+#EXTINF:-1 xui-id="367243" tvg-id="" tvg-name="Carib (FLOW) Telemundo International (D)" tvg-logo="" group-title="CARIBBEAN",7. Carib (FLOW) Telemundo International (D)
+http://watch-myjokertv.xyz:8080/play/bGcvHC9bSFjFg67vwqDnvTuvuaCTSVAmVDKgYIHROW5vGDCTsoal_k_T5MxknUOl/ts
+
+# canal 8 Telemundo 2
+#EXTINF:-1 xui-id="487876" tvg-id="" tvg-name="CA | SAN FRANCISCO | TELEMUNDO 48" tvg-logo="https://en.wikipedia.org/wiki/KSTS#/media/File:KSTS_Logo.png+" group-title="LATINO",8. TELEMUNDO Calif48
+http://watch-myjokertv.xyz:8080/play/bGcvHC9bSFjFg67vwqDnvf0qnnL3uyEiBwkowDDlKzgceXpA-lmUjCZbmKliOMBz/ts
+
+# Canal 9 Telemundo Chicago
+#EXTINF:-1 xui-id="487886" tvg-id="telewsns.us" tvg-name="LA | TELEMUNDO CHICAGO" tvg-logo="http://watch-myjokertv.xyz:8080/images/MZWta4l0Q1QX3TNN9072s2X7XeH1NwDglWGbCk7OH2t32_pxO1vxMIyA2ZhqWARXZvntlvBO0qNVIhP3q8QgSBGjOBwlWzVDsOvj82qVTPo.jpg" group-title="LATINO",9. TELEMUNDO CHICAGO
+http://watch-myjokertv.xyz:8080/play/bGcvHC9bSFjFg67vwqDnvZlX4txOWTTIzrHaADstNrkQKOK8EODiIF0AzUdC3bdY/ts
+
+# Canal 10 buscar el de ecuador
+
+#EXTINF:-1,10. TC MI CANAL
+http://qq1231.us:80/eduardojloor/6475737561/100843.ts
+
+#CANAL 11
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="General",11. Ecuador TV
+https://samson.streamerr.co:8081/shogun/index.m3u8
+
+#CANAL 12
+#EXTINF:-1,12. TV TELEVICENTRO
+http://qq1231.us:80/eduardojloor/6475737561/100842.ts
+
+#Canal 13
+#EXTINF:-1 xui-id="487879" tvg-id="" tvg-name="DC | WASHINGTON UNIVISION WFDC" tvg-logo="http://watch-myjokertv.xyz:8080/images/lH22O4cbMOkY6m6GvAdBBGi5YwVZ57Mnr9nE8UvP0xRQeSm6rIf-_R48pmj-ilEdT7WPlyma6rlGeIi2c47PacLJsCHeKpiCKGucvx_SrfBhXTZBkybP-nMv_7jimlvC.png" group-title="LATINO",13. UNIVISION WASHINGTON 
+http://watch-myjokertv.xyz:8080/play/bGcvHC9bSFjFg67vwqDnvf0qnnL3uyEiBwkowDDlKzgex_fWqM9U3_KCz26_yQNv/ts
+#Canal 14
+#EXTINF:-1,14. UNIVISION HD
+http://qq1231.us:80/eduardojloor/6475737561/61903.ts
+
+# canal 15 buscar discovery
+#EXTINF:-1,15. DISCOVERY CHANNEL
+http://qq1231.us:80/eduardojloor/6475737561/100611.ts
+
+# Canal 16 Discovery Civilization
+#EXTINF:-1,16. DISCOVERY CIVILIZATION
+http://qq1231.us:80/eduardojloor/6475737561/100610.ts
+
+# canal 17 Food network
+#EXTINF:-1 xui-id="367130" tvg-id="" tvg-name="Carib (FLOW) Food Network Latino (D)" tvg-logo="" group-title="CARIBBEAN",17. Food Network Latino
+http://watch-myjokertv.xyz:8080/play/bGcvHC9bSFjFg67vwqDnveCbGfNU78DhX3e5oSakiga4v91Ytn8ozHZE79JM2Kdz/ts
+
+#canal 18 history channel
+#EXTINF:-1,18. HISTORY CH
+http://qq1231.us:80/eduardojloor/6475737561/100640.ts
+
+#canal 19 3aBN
+#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="Religious",19. 3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+
+#canal 20 enlace
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",20. Enlace (720p)
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
+#Canal 21
+#EXTINF:-1 group-title="ASD Español",21. Red Advenir [SD]
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+
+
