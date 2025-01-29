@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXT-X-STREAM-INF:BANDWIDTH=3193512,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8?dpssid=b213794358679983108739a&sid=ba5t1l1xb219965431667998387719aa&ndvc=0
-#EXT-X-STREAM-INF:BANDWIDTH=2131980,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks_dvr.m3u8?dpssid=b213794358679983108739a&sid=ba5t1l1xb219965431667998387719aa&ndvc=0
-#EXT-X-STREAM-INF:BANDWIDTH=741531,RESOLUTION=854x480,CODECS="avc1.64001f,mp4a.40.2"
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream2/chunks_dvr.m3u8?dpssid=b213794358679983108739a&sid=ba5t1l1xb219965431667998387719aa&ndvc=0
-#EXT-X-STREAM-INF:BANDWIDTH=334714,RESOLUTION=426x240,CODECS="avc1.640015,mp4a.40.2"
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream3/chunks_dvr.m3u8?dpssid=b213794358679983108739a&sid=ba5t1l1xb219965431667998387719aa&ndvc=0
+#EXTINF:-1 group-title="Latinos",1. ECUAVISA !
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8
+
+#EXTINF:-1 group-title="Latinos",1. ECUAVISA !!
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks_dvr.m3u8
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream2/chunks_dvr.m3u8
+#EXTINF:-1 group-title="Latinos",1. ECUAVISA !!!
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream3/chunks_dvr.m3u8
 
 #EXTINF:-1 group-title="Latinos",1. CANAL UNO HD
 http://qq1231.us:80/eduardojloor/6475737561/100848.ts
