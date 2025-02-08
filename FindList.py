@@ -1,5 +1,5 @@
 import requests
-import sri
+import re
 
 def find_m3u_links(url):
     try:
@@ -7,7 +7,7 @@ def find_m3u_links(url):
         response = requests.get(url)
         response.raise_for_status()  # Raise an error for bad responses
 
-         Use regex to find all .m3u links in the response text
+        # Use regex to find all .m3u links in the response text
         m3u_links = re.findall(r'https?://[^\s]+\.m3u', response.text)
 
         return m3u_links
@@ -25,4 +25,4 @@ if __name__ == "__main__":
         for link in m3u_links:
             print(link)
     else:
-        print"No .m3u links found.")
+        print("No .m3u links found.")
