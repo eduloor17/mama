@@ -4,11 +4,11 @@
 http://qq1231.us:80/eduardojloor1/6475737561/100848.ts
 #EXTINF:-1 group-title="Latinos",2 ECUAVISA HD (1080p)
 #EXT-X-STREAM-INF:BANDWIDTH=3193512,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream2/chunks.m3u8?dpssid=b213794358679983108739a&sid=ba5t1l1xb297031345467ba68b9226d0&ndvc=0
+http://qq1231.us:80/eduardojloor1/6475737561/100852.ts
 #EXTINF:-1 xui-id="487859" tvg-id="univision.us" tvg-name="3. UNIVISION (EAST)" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcRKrImkE7XmAwjp-9kFLWYXpGV_0FtQlbtgRbABSW9ycXWs6AYG" group-title="Latinos",3. UNIVISION (EAST)
 http://qq1231.us:80/eduardojloor1/6475737561/61892.ts
 #EXTINF:-1tvg-id="RTS.ec" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador",4. RTS
-http://qq1231.us:80/eduardojloor/6475737561/100844.ts
+http://qq1231.us:80/eduardojloor1/6475737561/100844.ts
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="Ecuador",5. Teleamazonas
 http://qq1231.us:80/eduardojloor1/6475737561/100847.ts
 #EXTINF:-1 tvg-id="OromarTV.ec" tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador",6. Oromar TV
