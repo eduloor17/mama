@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Latinos",1. CANAL UNO HD
-http://qq1231.us:80/eduardojloor9/6475737561/100848.ts
+http://qq1231.us:80/eduardojloor/6475737561/100848.ts
 #EXTINF:-1 group-title="Latinos",2 ECUAVISA HD (1080p)
 #EXT-X-STREAM-INF:BANDWIDTH=3193512,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-http://qq1231.us:80/eduardojloor9/6475737561/100852.ts
+http://qq1231.us:80/eduardojloor/6475737561/100852.ts
 #EXTINF:-1 xui-id="487859" tvg-id="univision.us" tvg-name="3. UNIVISION (EAST)" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcRKrImkE7XmAwjp-9kFLWYXpGV_0FtQlbtgRbABSW9ycXWs6AYG" group-title="Latinos",3. UNIVISION (EAST)
-http://qq1231.us:80/eduardojloor9/6475737561/61892.ts
+http://qq1231.us:80/eduardojloor/6475737561/61892.ts
 #EXTINF:-1tvg-id="RTS.ec" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador",4. RTS
-http://qq1231.us:80/eduardojloor9/6475737561/100844.ts
+http://qq1231.us:80/eduardojloor/6475737561/100844.ts
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="Ecuador",5. Teleamazonas
-http://qq1231.us:80/eduardojloor9/6475737561/100847.ts
+http://qq1231.us:80/eduardojloor/6475737561/100847.ts
 #EXTINF:-1 tvg-id="OromarTV.ec" tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Ecuador",6. Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 xui-id="367243" tvg-id="" tvg-name="Telemundo International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/440px-Telemundo_logo_2018.svg.png" group-title="Latinos",7. Telemundo International
@@ -20,23 +20,23 @@ http://watch-myjokertv.xyz:8080/play/bGcvHC9bSFjFg67vwqDnvf0qnnL3uyEiBwkowDDlKzg
 #EXTINF:-1 xui-id="487886" tvg-id="telewsns.us" tvg-name="Telemundo Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/440px-Telemundo_logo_2018.svg.png" group-title="Latinos",9. Telemundo Chicago
 http://watch-myjokertv.xyz:8080/play/bGcvHC9bSFjFg67vwqDnvZlX4txOWTTIzrHaADstNrkQKOK8EODiIF0AzUdC3bdY/ts
 #EXTINF:-1 tvg-id="tctelevision.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="Ecuador",10. Tc mi canal
-http://qq1231.us:80/eduardojloor9/6475737561/100843.ts
+http://qq1231.us:80/eduardojloor/6475737561/100843.ts
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="Ecuador",11. Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TVCEcuador2023.webp/revision/latest?cb=20230815115822" group-title="Ecuador",12. TV TELEVICENTRO
-http://qq1231.us:80/eduardojloor9/6475737561/100842.ts
+http://qq1231.us:80/eduardojloor/6475737561/100842.ts
 #EXTINF:-1 xui-id="487879" tvg-id="" tvg-name="Univision Washington" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcRKrImkE7XmAwjp-9kFLWYXpGV_0FtQlbtgRbABSW9ycXWs6AYG" group-title="Latinos",13. Univision Washington 
 http://watch-myjokertv.xyz:8080/play/bGcvHC9bSFjFg67vwqDnvf0qnnL3uyEiBwkowDDlKzgex_fWqM9U3_KCz26_yQNv/ts
 #EXTINF:-1 xui-id="487879" tvg-id="" tvg-name="Univision" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcRKrImkE7XmAwjp-9kFLWYXpGV_0FtQlbtgRbABSW9ycXWs6AYG" group-title="Latinos",14. Univision
-http://qq1231.us:80/eduardojloor9/6475737561/61903.ts
+http://qq1231.us:80/eduardojloor/6475737561/61903.ts
 #EXTINF:-1 xui-id="487879" tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://banner2.cleanpng.com/20180404/poe/avhz93vi7.webp" group-title="Latinos",15. Discovery Channel
-http://qq1231.us:80/eduardojloor9/6475737561/100611.ts
+http://qq1231.us:80/eduardojloor/6475737561/100611.ts
 #EXTINF:-1 xui-id="487879" tvg-id="" tvg-name="Discovery Civilization" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Discovery_Civilization_Channel_logo.svg/2202px-Discovery_Civilization_Channel_logo.svg.png" group-title="Latinos",16. Discovery Civilization
-http://qq1231.us:80/eduardojloor9/6475737561/100610.ts
+http://qq1231.us:80/eduardojloor/6475737561/100610.ts
 #EXTINF:-1 xui-id="367130" tvg-id="" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Latinos",17. Food Network Latino
 http://watch-myjokertv.xyz:8080/play/bGcvHC9bSFjFg67vwqDnveCbGfNU78DhX3e5oSakiga4v91Ytn8ozHZE79JM2Kdz/ts
 #EXTINF:-1 xui-id="367130" tvg-id="" tvg-name="History Channel" tvg-logo="https://banner2.cleanpng.com/20180724/rzb/5ccd9cc4a44cbe8a363610a7d240aba9.webp" group-title="Latinos",18. History Channel
-http://qq1231.us:80/eduardojloor9/6475737561/100640.ts
+http://qq1231.us:80/eduardojloor/6475737561/100640.ts
 #EXTINF:-1 tvg-id="3ABNLatino.us" tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="Cristianos",19. 3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Cristianos",20. Enlace
@@ -46,12 +46,12 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
 
 # Películas
 #EXTINF:-1 group-title="Peliculas Español", Territorio (2020)
-http://qq1231.us:80/movie/eduardojloor9/6475737561/141981.mp4
+http://qq1231.us:80/movie/eduardojloor/6475737561/141981.mp4
 #EXTINF:-1 group-title="Peliculas Español", Elephant (2020)
-http://qq1231.us:80/movie/eduardojloor9/6475737561/141758.mkv
+http://qq1231.us:80/movie/eduardojloor/6475737561/141758.mkv
 #EXTINF:-1 group-title="Peliculas Español", El-maestro
-http://qq1231.us:80/movie/eduardojloor9/6475737561/141769.mp4
+http://qq1231.us:80/movie/eduardojloor/6475737561/141769.mp4
 #EXTINF:-1, group-title="Peliculas Español", La mitad de ello (2020)
-http://qq1231.us:80/movie/eduardojloor9/6475737561/141987.mkv
+http://qq1231.us:80/movie/eduardojloor/6475737561/141987.mkv
 #EXTINF:-1, group-title="Peliculas Español", Nosotros los de la fe
 https://vod3.cf.dmcdn.net/sec2(fmfIAN8HwRN7V7nhLr2loHbQ8QcFHjR2iG6IBZr-PqW7fYjL_dh1dsBIlYX7mYffrTlxt8bwov3RdJIPA-AwrVU74CJ3ctLKt2CsQbQk5LOFh47R7dijrDuBabKeb63LC3P5h2Pzhq9zkWRDyQYzkBhzUVE-twRUvWplqnjW5CpYQQTkZSDcE-1X0zfGUHFf)/video/497/704/569407794_mp4_h264_aac_hq_2.m3u8
