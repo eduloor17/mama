@@ -46,7 +46,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="redadvenir.org" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/ADVenir_2005.png/revision/latest?cb=20240223101140" group-title="Cristianos",21. Red Advenir [SD]
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="...TSN 4 HD" tvg-logo="http://glmtv.pw/logo/prestige/Canada/tsn_4_ca.png" group-title="SPORTS",...TSN 4 HD
-http://qq888.us:80/eduardojloor/6475737561/8004.ts
+http://qq888.us:8080/eduardojloor/6475737561/8004
 
 # Películas
 #EXTINF:-1 group-title="Peliculas Español", Territorio (2020)
